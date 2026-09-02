@@ -1,3 +1,1 @@
 Hello git
-
-It's pretty fun. Isn't it?
